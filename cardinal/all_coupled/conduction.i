@@ -3,7 +3,7 @@
 [Mesh]
   [file]
     type = FileMeshGenerator
-    file = ../meshes/mesh_in.e
+    file = mesh_in.e
   []
   [delete_coolant]
     type = BlockDeletionGenerator
